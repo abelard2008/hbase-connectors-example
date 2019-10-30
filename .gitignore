@@ -1,0 +1,15 @@
+project
+target
+lib
+lib/*
+target/*
+/*/project
+*.iml
+*.log
+.idea
+.idea/*
+*~
+*#*
+nohup.out
+logs
+logs/*
